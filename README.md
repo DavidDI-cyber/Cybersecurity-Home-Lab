@@ -30,5 +30,5 @@
 ---
 
 ## 📬 Contact & Links
-- **LinkedIn:** [www.linkedin.com/in/seunfunmi-duro-ishola-6264442a4]
-- **GitHub:** [Insert GitHub Profile URL]
+- **LinkedIn:** (https://www.linkedin.com/in/david-duroishola/)
+- **GitHub:** (https://github.com/DavidDI-cyber)]
